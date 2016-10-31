@@ -1,0 +1,1 @@
+include ':app', ':xutils', ':PhotoView_library', ':MaterialRefreshLayout_library', ':vitamio', ':EventBus', ':jcvideoplayer-lib', ':fragmentation', ':myplayer', ':fragmentation_swipeback', ':demo'

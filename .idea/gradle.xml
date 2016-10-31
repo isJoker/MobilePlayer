@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\android\androidStudio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_library" />
+            <option value="$PROJECT_DIR$/PhotoView_library" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/fragmentation" />
+            <option value="$PROJECT_DIR$/fragmentation_swipeback" />
+            <option value="$PROJECT_DIR$/jcvideoplayer-lib" />
+            <option value="$PROJECT_DIR$/myplayer" />
+            <option value="$PROJECT_DIR$/vitamio" />
+            <option value="$PROJECT_DIR$/xutils" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout_library" />
+            <option value="$PROJECT_DIR$/PhotoView_library" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/fragmentation" />
+            <option value="$PROJECT_DIR$/fragmentation_swipeback" />
+            <option value="$PROJECT_DIR$/jcvideoplayer-lib" />
+            <option value="$PROJECT_DIR$/myplayer" />
+            <option value="$PROJECT_DIR$/vitamio" />
+            <option value="$PROJECT_DIR$/xutils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

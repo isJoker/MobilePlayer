@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:padding="5dp"
+    android:background="@drawable/buffer_bg_selector"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:visibility="gone">
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_buffer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="当前网速...10KB/s"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+
+</LinearLayout>

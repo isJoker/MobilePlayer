@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--标题拦截-->
+    <include layout="@layout/titlebar"/>
+
+    <!--用Framelayou替换各个Fragment-->
+    <FrameLayout
+        android:id="@+id/fl_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!--底部的RadioGroup-切换不同的页面-不同Fragment-->
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#11000000"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <RadioButton
+            android:id="@+id/rb_local_video"
+            style="@style/bottom_tab_style"
+            android:drawableTop="@drawable/rb_local_video_drawable_selector"
+            android:text="本地视频" />
+
+
+        <RadioButton
+            android:id="@+id/rb_local_audio"
+            style="@style/bottom_tab_style"
+            android:drawableTop="@drawable/rb_local_audio_drawable_selector"
+            android:text="本地音乐" />
+
+
+
+        <RadioButton
+            android:id="@+id/rb_net_video"
+            style="@style/bottom_tab_style"
+            android:drawableTop="@drawable/rb_net_video_drawable_selector"
+            android:text="网络视频" />
+
+
+
+        <RadioButton
+            android:id="@+id/rb_net_audio"
+            style="@style/bottom_tab_style"
+            android:drawableTop="@drawable/rb_net_audio_drawable_selector"
+            android:text="网络音频" />
+        <RadioButton
+            android:id="@+id/rb_recyclerview_audio"
+            style="@style/bottom_tab_style"
+            android:drawableTop="@drawable/rb_net_audio_drawable_selector"
+            android:text="recyclerview" />
+
+    </RadioGroup>
+
+</LinearLayout>

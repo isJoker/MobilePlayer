@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Last_MobilePhone.iml" filepath="$PROJECT_DIR$/Last_MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" filepath="$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentation/fragmentation.iml" filepath="$PROJECT_DIR$/fragmentation/fragmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentation_swipeback/fragmentation_swipeback.iml" filepath="$PROJECT_DIR$/fragmentation_swipeback/fragmentation_swipeback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" filepath="$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myplayer/myplayer.iml" filepath="$PROJECT_DIR$/myplayer/myplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myplayer/player.iml" filepath="$PROJECT_DIR$/myplayer/player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>
